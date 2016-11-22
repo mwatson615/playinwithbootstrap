@@ -11,3 +11,7 @@
 h1 {
 	color: red;
 }
+
+.image-main {
+	max-height: 300px;
+}
