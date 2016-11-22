@@ -1,3 +1,11 @@
-h1 {
+.col-md-4 {
+	background-color: slategrey;
+}
+
+.col-md-8 {
+	background-color: green;
+}
+
+footer {
 	color: red;
 }
